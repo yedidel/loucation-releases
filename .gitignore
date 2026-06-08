@@ -1,0 +1,4 @@
+# קובצי APK אינם נשמרים ב-git (מועלים כ-Release assets ב-GitHub).
+# רק version.json + התיעוד נשמרים בריפו הציבורי.
+apk/
+*.apk
