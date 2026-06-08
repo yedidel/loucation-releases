@@ -1,0 +1,7 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0-debug",
+  "apkUrl": "https://github.com/yedidel/loucation-releases/releases/download/v1.0.0-debug/loucation-debug.apk",
+  "releaseNotes": "גרסת בדיקה (debug).",
+  "mandatory": false
+}
