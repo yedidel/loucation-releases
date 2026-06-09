@@ -1,7 +1,7 @@
 {
   "versionCode": 1,
   "versionName": "1.0.0",
-  "apkUrl": "https://raw.githubusercontent.com/yedidel/loucation-releases/main/apk/loucation-1.0.0.apk",
+  "apkUrl": "https://raw.githubusercontent.com/yedidel/loucation-releases/main/apk/loucation-latest.apk",
   "releaseNotes": "גרסה ראשונה של Loucation.",
   "mandatory": false
 }
