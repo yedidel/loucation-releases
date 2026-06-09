@@ -1,7 +1,7 @@
 {
-    "versionCode":  4,
-    "versionName":  "1.0.4",
+    "versionCode":  5,
+    "versionName":  "1.0.5",
     "apkUrl":  "https://raw.githubusercontent.com/yedidel/loucation-releases/main/apk/loucation-latest-debug.apk",
-    "releaseNotes":  "fix update flow",
+    "releaseNotes":  "push notifications enabled",
     "mandatory":  false
 }
