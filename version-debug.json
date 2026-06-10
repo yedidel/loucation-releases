@@ -1,7 +1,7 @@
 {
-    "versionCode":  6,
-    "versionName":  "1.0.6",
-    "apkUrl":  "https://raw.githubusercontent.com/yedidel/loucation-releases/main/apk/loucation-1.0.6-debug.apk",
+    "versionCode":  7,
+    "versionName":  "1.0.7",
+    "apkUrl":  "https://raw.githubusercontent.com/yedidel/loucation-releases/main/apk/loucation-1.0.7-debug.apk",
     "releaseNotes":  "fix editing",
     "mandatory":  false
 }
