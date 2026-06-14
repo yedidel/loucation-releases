@@ -1,7 +1,7 @@
 {
-    "versionCode":  13,
-    "versionName":  "1.0.13",
-    "apkUrl":  "https://raw.githubusercontent.com/yedidel/loucation-releases/main/apk/loucation-1.0.13-debug.apk",
-    "releaseNotes":  "zones on map + inside-zone label + notification log",
+    "versionCode":  14,
+    "versionName":  "1.0.14",
+    "apkUrl":  "https://raw.githubusercontent.com/yedidel/loucation-releases/main/apk/loucation-1.0.14-debug.apk",
+    "releaseNotes":  "notif dedupe + zones for others + marker fan-out",
     "mandatory":  false
 }
