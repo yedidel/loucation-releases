@@ -1,7 +1,7 @@
 {
-    "versionCode":  14,
-    "versionName":  "1.0.14",
-    "apkUrl":  "https://raw.githubusercontent.com/yedidel/loucation-releases/main/apk/loucation-1.0.14-debug.apk",
-    "releaseNotes":  "notif dedupe + zones for others + marker fan-out",
+    "versionCode":  15,
+    "versionName":  "1.0.15",
+    "apkUrl":  "https://raw.githubusercontent.com/yedidel/loucation-releases/main/apk/loucation-1.0.15-debug.apk",
+    "releaseNotes":  "multi-target zones + zone/place labels in full profile + zoom-aware markers",
     "mandatory":  false
 }
